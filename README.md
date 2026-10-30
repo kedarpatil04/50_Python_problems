@@ -1,4 +1,4 @@
-# 50 Best Problems to Practice Python 
+# 50 Problems to Practice Python 
 
 This repository contains a curated set of 50 Python problems ideal for beginners and intermediate programmers to sharpen their coding skills. Each problem is included in a Jupyter Notebook along with its solution.
 
